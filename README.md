@@ -12,9 +12,11 @@
  
  #### About Me ✨
  
-- 🔭 Loves MERN 
+- 👨‍💻 Loves MERN 
 - 💬 Ask me about Web Development 
-- 🔭 I’m currently learning AWS 
+- 📚 I’m currently learning AWS 
+- 💡 Have a unique idea ? Feel free to contact at <a href = "mailto: magz3116@gmail.com">📫</a>
+
 
 <br><br><br>
 <p align = "center">
