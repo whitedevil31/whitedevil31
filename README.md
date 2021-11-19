@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Nanda</h1>
+#### About Me ✨
+ 
+- 🔭 Loves MERN 
+- 💬 Ask me about Web Development 
+- 🔭 I’m currently learning AWS 
 
-<!--
-**whitedevil31/whitedevil31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br><br>
+<p align = "center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=whitedevil31&theme=nightowl&count_private=true&include_all_commits=true&border_radius=20&show_icons=true&custom_title=%20Nanda%27s%20GitHub%20Stats%20" width="460" />
+</p>
+<p align = "center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitedevil31&theme=nightowl&layout=compact&langs_count=16&border_radius=20&count_private=true&include_all_commits=true&custom_title=%20Most%20Used%20Languages%20By%20Nanda" />
+</p>
