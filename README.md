@@ -14,8 +14,8 @@
  
 - 👨‍💻 Loves MERN.
 - 💬 Ask me about Web Development.
-- 📚 I’m currently learning AWS.
-- 💡 Have a unique idea ? Feel free to contact at <a href="mailto:magz311@gmail.com">📫</a>
+- 📚 I’m currently working on DSA && AWS
+- 💡 Have a idea in mind ? Feel free to contact at <a href="mailto:magz311@gmail.com">📫</a>
 
 
 <br><br><br>
