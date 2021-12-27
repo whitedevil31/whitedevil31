@@ -11,11 +11,10 @@
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=whitedevil31&theme=nightowl&border_radius=20" />
  
  #### About Me ✨
- 
+- 🎓 Pre-final year CSE undergrad @SRM.
 - 👨‍💻 Loves MERN.
 - 💬 Ask me about Web Development.
-- 📚 I’m currently working on my DSA && AWS skills
-- 💡 Have a idea in mind ? Feel free to contact at <a href="mailto:magz311@gmail.com">📫</a>
+- 📚 I’m currently working on my DSA && AWS skills.
 
 
 <br><br><br>
