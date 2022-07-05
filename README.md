@@ -2,10 +2,7 @@
 
  
 
-<p align = "center">
-  <a href = "https://www.linkedin.com/in/nanda-m-p-24aa37197/" target = "_blank"><img src = "https://img.shields.io/badge/-Nanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nanda-m-p-24aa37197/" /></a>
-  <img src="https://badges.pufler.dev/Visits/whitedevil31/whitedevil31?style=flat-square&color=orange" />
-</p>
+
 <br><br>
 
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=whitedevil31&theme=nightowl&border_radius=20" />
