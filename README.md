@@ -8,10 +8,10 @@
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=whitedevil31&theme=nightowl&border_radius=20" />
  
  #### About Me ✨
-- 🎓 Final year CSE undergrad @SRM.
+- 💻  Graduate Developer @Barclays.
 - 👨‍💻 Loves MERN.
 - 💬 Ask me about Web Development.
-- 📚 I’m currently working on my problem solving skills
+- 📚 Currently on hibernation phase.
 
 
 <br><br><br>
