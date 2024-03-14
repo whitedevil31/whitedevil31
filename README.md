@@ -9,9 +9,10 @@
  
  #### About Me ✨
 - 💻  Graduate Developer @Barclays.
-- 👨‍💻 Loves MERN.
-- 💬 Ask me about Web Development.
-- 📚 Currently on hibernation phase.
+- 💬 Interested in Web Dev with an inclination towards Backend 
+- 📚 On Grind mode
+  
+  
 
 
 <br><br><br>
